@@ -1,0 +1,48 @@
+.container1 {
+  /*border: 1px;*/
+
+  text-align: end;
+}
+body {
+  background-image: url("Pictures/image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+button {
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}
+button:hover {
+  background-color: white;
+}
+.container2 {
+  border: 1px;
+  border-radius: 15px;
+  width: 450px;
+  height: 450px;
+  text-align: center;
+  padding: 5px;
+  background-color: white;
+}
+.sub-container1 {
+  border: 1px;
+  border-radius: 50%;
+  width: 70%;
+  height: 70%;
+  margin: auto;
+
+  background-image: url("Pictures/lib.jpg");
+  background-size: cover;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+#container3 {
+  border: 1px;
+  background-color: white;
+  width: fit-content;
+  height: fit-content;
+}
